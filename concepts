@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Concepts</title>
+  
+  <style>
+  body {
+  background-color: lightblue;
+  }
+
+  h1 {
+  color: white;
+  text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  </style>
+</head>
+<body>
+
+<h1>Network Concepts Used</h1>
+<p>We use DNS, IP address and headers.</p>
+<a href="home.html">Home</a>
+
+</body>
+</html>
