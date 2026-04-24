@@ -1,0 +1,1 @@
+Set-Cookie: sessionid=xyz123; HttpOnly; Secure; SameSite=Strict
